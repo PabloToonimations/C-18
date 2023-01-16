@@ -1,2 +1,1 @@
-# C-18
-Just learning to program
+# C18_LP_AA1
